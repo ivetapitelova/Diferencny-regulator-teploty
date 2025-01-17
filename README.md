@@ -1,2 +1,2 @@
-# zaverecnapracar-2
+# Diferenčný regulátor teploty
 564465456
